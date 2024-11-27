@@ -1,0 +1,12 @@
+# Install requirements in this file using the command
+# pip3 install -r requirements.txt
+
+numpy
+ipykernel==6.29.5
+ipython==8.29.0
+matplotlib==3.9.2
+scipy==1.14.1
+torch==2.5.1
+scikit-image
+ipywidgets
+baryrat
