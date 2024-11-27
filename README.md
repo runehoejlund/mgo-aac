@@ -1,4 +1,4 @@
-# mgo-with-automatic-analytic-continuation
+# MGO Algorithm with Automatic Analytic Continuation (AAC)
 This little repository demonstrates the new algorithm for metaplectic geometrical optics, which uses complex ray tracing to do automatic analytic continuation (AAC) needed for the steepest descent integrals when evaluating the inverse metaplectic transform.
 
 ## Getting Started
